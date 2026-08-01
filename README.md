@@ -1,0 +1,30 @@
+Jednoduchý C# plugin pro **SCP: Secret Laboratory**, zaměřený na správu custom příkazů a systém soukromých zpráv mezi hráči. Projekt slouží jako ukázka architektury a práce s rozhraním příkazů v C#.
+
+---
+
+## Požadavky & Tech Stack:
+   - Jazyk: C# (.NET)
+   - Vývojové prostředí: JetBrains Rider, VS Code
+   - Nástroje: Git / GitHub
+   - Framework které používám: EXILED a LabAPi
+
+
+
+---
+
+## Funkce & Stav vývoje
+
+- [x] **Zkouška jak fungují příkazy v SCP:SL**
+  - Registrace příkazů napsaných hráčem.
+  - Navrácení odpovědi v reakci na příkaz hráče
+
+- [/] Msg plugin (WIP-ve vývoji)
+  - [x] Nápad a vyhledávání způsobu jak ten plugin udělat.
+  - [ ] Vymyslet základní logiku kódu.
+  - [ ] Zjisti jak zobrazit zprávu správným lidem.
+  - [ ] Zformátovat výstup.
+  - [ ] přidat permissions.
+---
+
+## Příkazy
+  - test,t <text který má plugin vrátit> | když napíšete do server konzole např. test 1 2 3 tak vrátí "This was a test 1-2-3"
