@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OllsJYNA78=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAVID-PC\\RiderProjects\\LabAPiTest\\LabAPiTest\\LabAPiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAVID-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\DAVID-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\DAVID-PC\\.nuget\\packages\\northwood.labapi\\1.1.7\\northwood.labapi.1.1.7.nupkg.sha512",
+    "C:\\Users\\DAVID-PC\\.nuget\\packages\\yamldotnet\\11.0.1\\yamldotnet.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
