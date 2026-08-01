@@ -6,7 +6,7 @@ Jednoduchý C# plugin pro **SCP: Secret Laboratory**, zaměřený na správu cus
    - Jazyk: C# (.NET)
    - Vývojové prostředí: JetBrains Rider, VS Code
    - Nástroje: Git / GitHub
-   - Framework které používám: EXILED a LabAPi
+   - Frameworky, které používám: EXILED a LabAPI
 
 
 
@@ -27,4 +27,9 @@ Jednoduchý C# plugin pro **SCP: Secret Laboratory**, zaměřený na správu cus
 ---
 
 ## Příkazy
-  - test,t <text který má plugin vrátit> | když napíšete do server konzole např. test 1 2 3 tak vrátí "This was a test 1-2-3"
+  - test,t <text který má plugin vrátit> | když napíšete do serverové konzole např. test 1 2 3 tak vrátí "This was a test 1-2-3"
+
+---
+
+## Note: 
+  - jelikož se C# teprve učím tak to určitě nebude perfektní, také v tomto projektu nebylo použito AI aby mi psala kód, protože můj primární důvod proč to dělám je abych se naučil C# alespoň na trochu použitelnou úroveň.
